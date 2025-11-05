@@ -12,7 +12,7 @@ Tech used:
 - Local server
 
 ## How to Use:
-To use this coin game, follow these steps:
+To use this matching game, follow these steps:
 - Clone the repository: git clone https://github.com/WinnieYuDev/bread-matching-game
 - Navigate to the app directory in terminal: cd app 
 - Install module dependencies in terminal: npm install
